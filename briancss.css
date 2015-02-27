@@ -1,0 +1,146 @@
+
+body{
+	background-color: #000;
+	font-family: 'Alegreya', serif;
+	color:#fff;
+
+}
+a{
+	text-decoration:none;
+	color:black;
+	font-weight:bold;
+
+}
+/*a:hover{
+font-size: 18px;
+}*/
+h1{
+	font-family: 'Karla', sans-serif;
+	width:100%;
+	height:30%;
+	margin-left:5%;
+	margin-top:5%;
+	position:absolute;
+}
+
+h2{
+font-family: 'Karla', sans-serif;
+width:100%;
+height:30%;
+margin-left:5%;
+margin-top:10%;
+
+position:absolute;
+}
+
+#main{
+	margin-top:10px;
+	background-image:url("images/wall.png");
+	position:relative;
+	width:1200px;
+	height:200px;
+	
+
+}
+
+#nav{
+
+	width:50%;
+}
+#nav ul{
+display:block;
+width:100%;
+padding-left:5px;
+
+}
+
+#nav ul li{
+list-style:none;
+display:inline-block;
+padding:20px;
+padding-bottom:0;
+}
+p{
+
+	font-family: 'Alegreya', serif; 
+	float:left;
+	width:70%;
+	margin:20px 50px 0 20px;
+	padding:20px;
+	text-align:justify;
+}
+
+#images{
+width:75%;
+height:50%;
+margin:0 auto;
+display:block;
+
+
+}
+
+
+#images ul{
+	list-style:none;
+	padding-left: 0;
+	width:75%;
+	height:50%;
+	margin-left:25%;
+}
+
+#images li{
+	float:left;
+	list-style:none;
+	display:block;
+
+	padding:20px;
+	
+}
+#select{
+	margin: -25px 200px 0 200px;
+	width:80%;
+	height:40%;
+	display:block;
+
+}
+
+#select ul{
+	list-style:none;
+	padding-left: 0;
+	width:75%;
+	height:100%;
+	margin-left:25%;
+	float:left;
+}
+
+#select li{
+float:left;
+	list-style:none;
+	display:inline-block;
+	margin-right:25%;
+
+
+}
+#tit{
+margin: 200px 200px 0px 200px;
+
+}
+
+#form{
+	position:relative;
+width:100%;
+height:100%;
+margin-top:10%;
+float:left;
+
+}
+
+#slideshow{
+width:100%;
+height:100%;
+float:left;
+margin-top:200px
+
+
+
+}
